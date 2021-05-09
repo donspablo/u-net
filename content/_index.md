@@ -1,5 +1,5 @@
 ---
-title: 'u-net: A don Federation Company' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
+title: 'u-net: XIΞLΞVAN SOLUTIONS' featured_image: '/images/gohugo-default-sample-hero-image.jpg' description: "
 u-net is under construction."
 ---
 
